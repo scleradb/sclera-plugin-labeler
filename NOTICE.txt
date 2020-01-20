@@ -1,0 +1,2 @@
+Sclera - Row Labeler
+Copyright 2012 - 2020 Sclera, Inc.
