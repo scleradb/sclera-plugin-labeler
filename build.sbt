@@ -4,6 +4,8 @@ description := "Label data rows based on the predicates provided."
 
 version := "4.0-SNAPSHOT"
 
+homepage := Some(url("https://github.com/scleradb/sclera-plugin-labeler"))
+
 organization := "com.scleradb"
 
 organizationName := "Sclera, Inc."
